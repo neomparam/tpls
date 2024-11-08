@@ -1,1 +1,1 @@
-# tpls
+# degit templates
